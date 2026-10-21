@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+firmware/cmsis/
+firmware/*.elf
+radar_*.png
+radar_*.csv
